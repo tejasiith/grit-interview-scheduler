@@ -16,7 +16,7 @@ npm install
 npm run dev
 ```
 
-Open the address Vite prints (usually http://localhost:5173).
+Open the address Vite prints ( http://localhost:5173).
 
 ## Other scripts
 
